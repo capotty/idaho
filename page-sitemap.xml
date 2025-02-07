@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -21,83 +24,83 @@
 	</url>
 	<url>
 		<loc>/lewiston/</loc>
-		<lastmod>2025-02-06T03:20:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/coeur-dalene/</loc>
-		<lastmod>2025-02-06T03:20:10+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/twin-falls/</loc>
-		<lastmod>2025-02-06T03:20:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/idaho-falls-2/</loc>
-		<lastmod>2025-02-06T03:20:09+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/pocatello/</loc>
-		<lastmod>2025-02-06T03:20:09+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/caldwell/</loc>
-		<lastmod>2025-02-06T03:20:09+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/coeur-dalene/</loc>
+		<lastmod>2025-02-07T01:47:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/nampa/</loc>
-		<lastmod>2025-02-06T03:20:08+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/soda-springs/</loc>
-		<lastmod>2025-02-06T03:20:08+00:00</lastmod>
+		<loc>/idaho-falls-2/</loc>
+		<lastmod>2025-02-07T01:47:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/pocatello/</loc>
+		<lastmod>2025-02-07T01:47:21+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/meridian/</loc>
-		<lastmod>2025-02-06T03:20:07+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/soda-springs/</loc>
+		<lastmod>2025-02-07T01:47:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/burley/</loc>
-		<lastmod>2025-02-06T03:20:07+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hailey/</loc>
-		<lastmod>2025-02-06T03:20:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/idaho-falls/</loc>
-		<lastmod>2025-02-06T03:20:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/blackfoot/</loc>
-		<lastmod>2025-02-06T03:20:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/ammon/</loc>
-		<lastmod>2025-02-06T03:20:05+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/mountain-home/</loc>
-		<lastmod>2025-02-06T03:20:05+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/idaho-falls/</loc>
+		<lastmod>2025-02-07T01:47:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/blackfoot/</loc>
+		<lastmod>2025-02-07T01:47:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/eagle/</loc>
-		<lastmod>2025-02-06T03:20:05+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/rexburg/</loc>
-		<lastmod>2025-02-06T03:20:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/moscow/</loc>
-		<lastmod>2025-02-06T03:20:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/boise/</loc>
-		<lastmod>2025-02-06T03:20:03+00:00</lastmod>
+		<loc>/ammon/</loc>
+		<lastmod>2025-02-07T01:47:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/post-falls/</loc>
-		<lastmod>2025-02-06T03:20:03+00:00</lastmod>
+		<lastmod>2025-02-07T01:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/rexburg/</loc>
+		<lastmod>2025-02-07T01:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/moscow/</loc>
+		<lastmod>2025-02-07T01:47:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/boise/</loc>
+		<lastmod>2025-02-07T01:47:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
